@@ -1,7 +1,9 @@
+import TodoPage from './pages/TodoPage';
+
 function App() {
   return (
     <div className="App">
-      <h1>Todo List</h1>
+      <TodoPage />
     </div>
   );
 }
